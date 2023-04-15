@@ -1,22 +1,6 @@
-### Hi there 👋
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<div>
-<img src = "https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
-
-<div>
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM2NTQ4YmUzNjZmM2E4MjAzNjhkMTM2MmQ0NWMwMjFjNjMyNzgxZSZjdD1n/4KzpjLvJjJknJ5Xuak/giphy.gif">
-</div>
-<div>
-<img src = "https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
-</div>
+<h1 align="center">I'm Julia, a <b> frontend full-stack developer student </b> 👨‍💻  🚀</h1>  
+<hr></hr>
+<img width=25% align='right' src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"/>
