@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
-<h1 align="center">I'm Julia,<br> a <b> web full-stack developer student </b> <img src = "../images/w.png" width="30px"></h1>
+<h1 align="center">I'm Julia,<br> a <b> web full-stack developer student </b> <img src = "./woman-technologyst.png" width="30px"></h1>
 <img width=25% align='right' src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"/>
 
 <br>
