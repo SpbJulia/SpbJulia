@@ -49,3 +49,8 @@ title="python" alt="python" width="40" height="40" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpbJulia&theme=vue-dark"/>
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=SpbJulia&theme=vue-dark"/>
 </div>
+<br>
+<hr>
+<div align='center'>
+  <img src='./dino_rounded.gif'width="65%">
+ </div>
