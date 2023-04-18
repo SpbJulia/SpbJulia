@@ -46,6 +46,6 @@ title="python" alt="python" width="40" height="40" />
 ## 	&#128202;GitHab STATISTICS:
 
 <div align='center'>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpbJulia&theme=vue"/>
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=SpbJulia&theme=vue"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpbJulia&theme=vue-dark"/>
+  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=SpbJulia&theme=vue-dark"/>
 </div>
